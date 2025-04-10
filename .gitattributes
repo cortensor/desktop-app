@@ -1,3 +1,4 @@
+dist/ filter=lfs diff=lfs merge=lfs -text
 dist/**/*.snap filter=lfs diff=lfs merge=lfs -text
 dist/**/*.AppImage filter=lfs diff=lfs merge=lfs -text
 dist/**/*.deb filter=lfs diff=lfs merge=lfs -text
