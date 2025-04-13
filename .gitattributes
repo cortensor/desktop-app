@@ -7,3 +7,4 @@ dist/**/*.snap filter=lfs diff=lfs merge=lfs -text
 dist/**/*.deb filter=lfs diff=lfs merge=lfs -text
 dist/osx-arm/cortensor-desktop-app-0.0.1.dmg filter=lfs diff=lfs merge=lfs -text
 dist/win-amd64/cortensor-desktop-app-0.0.1-setup.exe filter=lfs diff=lfs merge=lfs -text
+dist/osx-arm/cortensor-desktop-0.0.1-arm64-mac.zip filter=lfs diff=lfs merge=lfs -text
